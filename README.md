@@ -10,3 +10,9 @@ Simple demonstration of the backend framework(Django).
 ->There may be multiple user .
 
 ->Images are sorted based on their tags.
+
+Project Screenshots:
+
+
+![Screenshot (230)](https://user-images.githubusercontent.com/83813377/206206244-8d1f0b47-4eba-4654-bb33-80c5519f8343.png)
+![Screenshot (311)](https://user-images.githubusercontent.com/83813377/206206371-40ab7eef-b5f2-4159-8fe6-d9804574132e.png)
